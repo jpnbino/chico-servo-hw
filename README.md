@@ -11,6 +11,8 @@ Watch project presentation Here.[TODO fazer um vídeo e subir no youtube]
 
 ### Version ###
 
+* List
+
     V1I1 - Initial
 
 
