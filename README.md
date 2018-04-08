@@ -1,6 +1,6 @@
 # PALHASERVO - HW #
 
-Watch project presentation Here.[TODO fazer um vídeo e subir no youtube]
+Watch project presentation Here.[TODO fazer um v�deo e subir no youtube]
 
 
 ### What is this repository for? ###
@@ -9,12 +9,12 @@ Watch project presentation Here.[TODO fazer um vídeo e subir no youtube]
 
     Contains source files from IDE Altium Designer.
 
-* Version
+### Version ###
 
     V1I1 - Initial
 
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
+* Repo owner
 jpnogg@gmail.com
