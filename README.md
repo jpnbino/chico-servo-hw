@@ -3,20 +3,18 @@
 Watch project presentation Here.[TODO fazer um vídeo e subir no youtube]
 
 
-### What is this repository for? ###
+### The project ###
 
 * Quick summary
 
-    Contains source files from IDE Altium Designer.
+    Contains source files from IDE Altium Designer which can be used rebuild this project or adopted as an user may need.
 
-### Version ###
-
-* List
+* Version
 
     V1I1 - Initial
 
 
 ### Who do I talk to? ###
 
-* Repo owner
+* Any questions? Just give me a call
 jpnogg@gmail.com
