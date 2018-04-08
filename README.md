@@ -11,7 +11,7 @@ Watch project presentation Here.[TODO fazer um vídeo e subir no youtube]
 
 ### Version ###
 
-    V1I1 - Initial
+V1I1 - Initial
 
 
 ### Who do I talk to? ###
