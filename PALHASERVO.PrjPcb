@@ -48,7 +48,7 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -65,7 +65,7 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -82,7 +82,7 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -99,12 +99,12 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GKGNQIQE
+DocumentUniqueId=FJXXFPAV
 
 [Document5]
 DocumentPath=[04] - MECHANICAL.SchDoc
@@ -116,12 +116,12 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WKWALGNG
 
 [Document6]
 DocumentPath=[05] - REVISION HISTORY.SchDoc
@@ -133,12 +133,12 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YRYFARNB
 
 [Document7]
 DocumentPath=PALHASERVO.OutJob
@@ -172,7 +172,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JRXNQVCR
 
 [Document9]
 DocumentPath=PALHASERVO.SchDoc
@@ -184,7 +184,7 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -192,24 +192,24 @@ GenerateClassCluster=0
 DocumentUniqueId=HLKGIOHP
 
 [Parameter1]
-Name=Assembly_Variant
-Value=Full
+Name=VersionRevision
+Value=V1I1
 
 [Parameter2]
-Name=Currency
-Value=USD
+Name=Project
+Value=Template Project
 
 [Parameter3]
 Name=EngineerName
 Value=Jpnbino
 
 [Parameter4]
-Name=Project
-Value=Template Project
+Name=Currency
+Value=USD
 
 [Parameter5]
-Name=VersionRevision
-Value=V1I1
+Name=Assembly_Variant
+Value=Full
 
 [Configuration1]
 Name=Default Configuration
