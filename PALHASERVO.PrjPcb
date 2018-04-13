@@ -191,6 +191,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLKGIOHP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PALHASERVO\Design Rule Check - PALHASERVO.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Assembly_Variant
 Value=Full
