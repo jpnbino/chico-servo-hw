@@ -27,6 +27,10 @@ Example Firmware [**Here**](https://bitbucket.org/jpnbino/fw_palhaservo/src/mast
 
     + V1I1 - Initial.
 
+### Video ####
+I recorded this video when I was building the first prototype.
+
+[![Imgur](https://i.imgur.com/e7VBtIf.png)](https://youtu.be/o7HVy0H5WR8)
 
 ### Who do I talk to? ###
 
