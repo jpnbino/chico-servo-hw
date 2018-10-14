@@ -13,6 +13,7 @@ Example Firmware [**Here**](https://bitbucket.org/jpnbino/fw_palhaservo/src/mast
 
 |  Item           |Description |
 |-----------------|------------|
+| Core            | PIC16LF1824|
 | Input Voltage (Vin)   |  4.75V ≤ Vin ≤ 10V    |
 | Board Size      | 16.5mm x 31mm|
 | User LED        | 1            |
