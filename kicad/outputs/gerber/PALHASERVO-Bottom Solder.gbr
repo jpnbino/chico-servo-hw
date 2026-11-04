@@ -1,0 +1,73 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.7*%
+%TF.CreationDate,2026-11-04T20:31:36+01:00*%
+%TF.ProjectId,PALHASERVO,50414c48-4153-4455-9256-4f2e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.7) date 2026-11-04 20:31:36*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+G04 Aperture macros list end*
+%ADD10O,1.703200X2.003200*%
+%ADD11C,2.003200*%
+%ADD12HorizOval,2.003200X-0.393923X-0.069459X0.393923X0.069459X0*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,P7*%
+X141651100Y-98303600D03*
+%TD*%
+%TO.C,P2*%
+X155151100Y-91803600D03*
+X152611100Y-91803600D03*
+X150071100Y-91803600D03*
+X147531100Y-91803600D03*
+X144991100Y-91803600D03*
+X142451100Y-91803600D03*
+%TD*%
+%TO.C,P6*%
+X142451100Y-96003600D03*
+%TD*%
+%TO.C,P3*%
+X142451100Y-110603600D03*
+X142451100Y-113143600D03*
+X142451100Y-115683600D03*
+%TD*%
+D11*
+%TO.C,P1*%
+X145451100Y-108303600D03*
+D12*
+X145010030Y-105802190D03*
+D11*
+X144568970Y-103300770D03*
+%TD*%
+D10*
+%TO.C,J2*%
+X155151100Y-118003600D03*
+X152611100Y-118203600D03*
+X150071100Y-118003600D03*
+X147531100Y-118203600D03*
+X144991100Y-118003600D03*
+X142451100Y-118203600D03*
+%TD*%
+%TO.C,P5*%
+X149451100Y-108403600D03*
+%TD*%
+%TO.C,P4*%
+X154551100Y-105103600D03*
+%TD*%
+M02*

@@ -20,3 +20,14 @@ Status Report.Txt
 *.txtPreview
 __Previews/
 History/
+
+# KiCad
+kicad/*-backups/
+kicad/*.kicad_prl
+kicad/fp-info-cache
+kicad/*.lck
+kicad/_autosave-*
+kicad/net.txt
+kicad/erc.rpt
+kicad/drc.rpt
+__pycache__/

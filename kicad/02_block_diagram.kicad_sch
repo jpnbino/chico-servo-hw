@@ -1,0 +1,513 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "efac323e-c10c-565b-a48e-1a91122b267c")
+	(paper "A3")
+	(title_block
+		(title "BLOCK DIAGRAM")
+		(rev "V1I1")
+		(comment 1 "Imported from the Altium Designer project (see altium/)")
+	)
+	(lib_symbols)
+	(rectangle
+		(start 54.102 65.786)
+		(end 112.522 45.466)
+		(stroke
+			(width 0.4)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 255 1)
+		)
+		(uuid "447535f3-140e-562e-b2ab-f96430f0e0a0")
+	)
+	(rectangle
+		(start 264.414 231.902)
+		(end 303.022 205.232)
+		(stroke
+			(width 0.15)
+			(type default)
+			(color 8 13 2 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 232 1)
+		)
+		(uuid "58fa0e7d-a369-5965-8590-41a5ca1f6e81")
+	)
+	(rectangle
+		(start 264.922 127.508)
+		(end 303.53 100.838)
+		(stroke
+			(width 0.15)
+			(type default)
+			(color 8 13 2 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 232 1)
+		)
+		(uuid "91e681e0-489b-5741-8b3c-397f2e0be2bb")
+	)
+	(rectangle
+		(start 182.118 88.646)
+		(end 217.678 68.326)
+		(stroke
+			(width 0.15)
+			(type default)
+			(color 8 13 2 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 232 1)
+		)
+		(uuid "9fe565dd-7949-5638-b799-759e69e32689")
+	)
+	(rectangle
+		(start 264.414 197.104)
+		(end 303.022 170.434)
+		(stroke
+			(width 0.15)
+			(type default)
+			(color 8 13 2 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 232 1)
+		)
+		(uuid "b03156ea-c639-5769-9a5b-6feb01de8b8e")
+	)
+	(rectangle
+		(start 92.456 128.524)
+		(end 131.064 101.854)
+		(stroke
+			(width 0.15)
+			(type default)
+			(color 8 13 2 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 232 1)
+		)
+		(uuid "b8d05771-087b-5c66-a386-419c0413400c")
+	)
+	(rectangle
+		(start 264.922 162.306)
+		(end 303.53 135.636)
+		(stroke
+			(width 0.15)
+			(type default)
+			(color 8 13 2 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 232 1)
+		)
+		(uuid "d0ed7d64-34bc-5e1f-9d11-53675c36dcbd")
+	)
+	(rectangle
+		(start 182.118 235.966)
+		(end 217.678 101.346)
+		(stroke
+			(width 0.15)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 208 208 208 1)
+		)
+		(uuid "f710e6fd-c785-5446-9758-c50643867398")
+	)
+	(text "Page 3"
+		(exclude_from_sim no)
+		(at 264.922 100.838 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "06f66d9c-9857-5f29-8cf6-5c83172f8687")
+	)
+	(text "AN0"
+		(exclude_from_sim no)
+		(at 239.522 183.642 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1cc3aeb6-06a1-5570-bc6a-d6cf4db97f03")
+	)
+	(text "(Block diagram)"
+		(exclude_from_sim no)
+		(at 195.58 35.56 0)
+		(effects
+			(font
+				(size 7.2 7.2)
+				(bold yes)
+				(color 158 14 41 1)
+			)
+			(justify bottom)
+		)
+		(uuid "29f3bf17-4c96-5f91-a298-b9172f4ecb02")
+	)
+	(text "UART"
+		(exclude_from_sim no)
+		(at 236.728 112.522 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "3e8b1e3c-6cad-5507-a287-e15315e5df3d")
+	)
+	(text "Page 3"
+		(exclude_from_sim no)
+		(at 92.456 101.854 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "424a024a-04ca-5f26-a49e-ab06f75f2c1c")
+	)
+	(text "I/O"
+		(exclude_from_sim no)
+		(at 143.764 114.554 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d82d075-221e-5169-b434-3b108393ba74")
+	)
+	(text "=project"
+		(exclude_from_sim no)
+		(at 195.58 22.86 0)
+		(effects
+			(font
+				(size 9.6 9.6)
+				(bold yes)
+				(color 158 14 41 1)
+			)
+			(justify bottom)
+		)
+		(uuid "701d7e0d-f510-52ab-b96d-ccf5fca3478f")
+	)
+	(text "AN1"
+		(exclude_from_sim no)
+		(at 236.22 216.916 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "7f4d3243-d336-5683-9455-4dfe0e5bb4c1")
+	)
+	(text "Pages 3"
+		(exclude_from_sim no)
+		(at 182.118 101.346 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "81078106-c98e-5413-b097-f685b5e2d392")
+	)
+	(text "BATTERY ALERT"
+		(exclude_from_sim no)
+		(at 97.282 119.126 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "88013a55-49a0-5a24-b9ad-a48ce659d872")
+	)
+	(text "Page 3"
+		(exclude_from_sim no)
+		(at 182.118 68.326 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "88915289-0756-5ce2-beb7-74d95f5fbc69")
+	)
+	(text "PIC16LF1824"
+		(exclude_from_sim no)
+		(at 186.944 165.608 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+				(color 8 13 2 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ced9d34-1d93-5fa6-8b9e-31b716c7cd23")
+	)
+	(text "POWER"
+		(exclude_from_sim no)
+		(at 90.424 53.34 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+				(color 8 13 2 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3ad1dde-cfc3-5178-9646-42a084a3c32d")
+	)
+	(text "LED"
+		(exclude_from_sim no)
+		(at 108.712 111.76 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1cad51d-3807-517b-8b97-094bd225615b")
+	)
+	(text "ICSP"
+		(exclude_from_sim no)
+		(at 193.548 80.518 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b226ddad-6dfd-5266-8a90-833801817f89")
+	)
+	(text "SERVOMOTOR"
+		(exclude_from_sim no)
+		(at 272.034 150.368 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b6093a38-6776-5578-a987-58f494bae239")
+	)
+	(text "Page 3"
+		(exclude_from_sim no)
+		(at 264.414 169.672 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2b38156-7d41-56c1-beb8-7c8bc8d5f8f5")
+	)
+	(text "BLUETOOTH"
+		(exclude_from_sim no)
+		(at 272.796 112.522 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "cb21d58d-f8b1-59e8-b186-a83c474418df")
+	)
+	(text "Page 3"
+		(exclude_from_sim no)
+		(at 264.922 135.636 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "cc440a4d-54b8-5252-ab01-f5c5ff6fc41a")
+	)
+	(text "CLOCKS (CPU & PCIE)"
+		(exclude_from_sim no)
+		(at 50.8 256.54 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "cebb469f-7789-5943-824d-0e5dd0105c52")
+	)
+	(text "Page 3"
+		(exclude_from_sim no)
+		(at 264.414 205.232 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d775fd3f-f122-5af0-ae41-a7b5918c4270")
+	)
+	(text "Pages 3"
+		(exclude_from_sim no)
+		(at 54.102 45.466 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "dcfc5d78-9f34-5dc9-839b-6370d54bf7ff")
+	)
+	(text "BATTERY"
+		(exclude_from_sim no)
+		(at 275.844 186.182 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2e9f782-ebe7-5075-9fd5-98581f456422")
+	)
+	(text "PWM"
+		(exclude_from_sim no)
+		(at 236.728 147.32 0)
+		(effects
+			(font
+				(size 2.8 2.8)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e6be2504-d6d6-5c16-90a2-8f4f10fad003")
+	)
+	(text "HC - 05"
+		(exclude_from_sim no)
+		(at 274.32 119.634 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "ec2e5ec1-0928-5a96-8db5-09ebfec664b4")
+	)
+	(text "KNOB"
+		(exclude_from_sim no)
+		(at 277.114 221.234 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "f524b5d1-a3e8-5bef-a2b5-60a88b73bcaa")
+	)
+	(polyline
+		(pts
+			(xy 263.652 148.336) (xy 218.186 148.336)
+		)
+		(stroke
+			(width 0.25)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "81f2a37d-5461-51ef-ae6d-91ec2bdba216")
+	)
+	(polyline
+		(pts
+			(xy 263.144 217.932) (xy 218.948 217.932)
+		)
+		(stroke
+			(width 0.25)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "c86fec2b-6298-5143-99f9-5c17fa410040")
+	)
+	(polyline
+		(pts
+			(xy 181.864 115.062) (xy 132.334 115.062)
+		)
+		(stroke
+			(width 0.25)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "e01d7bb4-4af3-5169-8159-fd93b1dc2858")
+	)
+	(polyline
+		(pts
+			(xy 199.898 88.646) (xy 199.898 101.346)
+		)
+		(stroke
+			(width 0.4)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "e187296f-f6e0-5bc4-820d-93e92448c362")
+	)
+	(polyline
+		(pts
+			(xy 264.16 184.912) (xy 218.948 184.912)
+		)
+		(stroke
+			(width 0.25)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "ec1823cf-5ef0-5045-925b-44b530e451a9")
+	)
+	(polyline
+		(pts
+			(xy 263.652 113.538) (xy 219.456 113.538)
+		)
+		(stroke
+			(width 0.25)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "ee82ce16-2186-587b-a726-7d35c10ee72f")
+	)
+	(sheet_instances
+		(path "/"
+			(page "3")
+		)
+	)
+)
