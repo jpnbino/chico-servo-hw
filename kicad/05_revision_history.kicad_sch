@@ -1,0 +1,55 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e4e3047e-65d9-5c74-b770-9df6c5e2c86d")
+	(paper "A3")
+	(title_block
+		(title "REVISION HISTORY")
+		(rev "V1I1")
+		(comment 1 "Imported from the Altium Designer project (see altium/)")
+	)
+	(lib_symbols)
+	(text "CLOCKS (CPU & PCIE)"
+		(exclude_from_sim no)
+		(at 50.8 256.54 0)
+		(effects
+			(font
+				(size 4 4)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "041dd7cd-e310-50e8-88b6-3d275b29c225")
+	)
+	(text "REVISION HISTORY"
+		(exclude_from_sim no)
+		(at 195.58 25.4 0)
+		(effects
+			(font
+				(size 9.6 9.6)
+				(bold yes)
+				(color 158 14 41 1)
+			)
+			(justify bottom)
+		)
+		(uuid "a1676769-e72a-540c-b675-1d6276ba4bb6")
+	)
+	(text "VxIx - Write here release notes"
+		(exclude_from_sim no)
+		(at 36.576 44.958 0)
+		(effects
+			(font
+				(size 4.4 4.4)
+			)
+			(justify left bottom)
+		)
+		(uuid "bac86257-790c-5c88-9e24-dfdca8427a4d")
+	)
+	(sheet_instances
+		(path "/"
+			(page "6")
+		)
+	)
+)

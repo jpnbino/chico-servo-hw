@@ -1,0 +1,87 @@
+(footprint "PAD_PTH 3 vias"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.869934 -6.714166 260)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9027c286-9256-4a7c-9990-551930bbbd7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "PAD_PTH 3 vias"
+		(at -2.965159 0.564481 260)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6ae494d1-1aef-4533-83fe-4a7cd0a5d446")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66126ea3-f277-426c-9dfd-6fd187611ac0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a0a143a-0a34-4ff4-b7f7-b9b6a5e0734a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(sheetname "[03] - CIRCUIT")
+	(sheetfile "[03] - CIRCUIT.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "1" thru_hole circle
+		(at 0 0 180)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "03863212-ec41-4fda-b447-df0ffe75f757")
+	)
+	(pad "2" thru_hole oval
+		(at 2.539999 -0.000004 180)
+		(size 1.8 2.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d88effc2-ab48-4616-b4da-6330643c45fc")
+	)
+	(pad "3" thru_hole circle
+		(at 5.080006 0.000004 180)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "d23b8fc0-da84-44ed-b0c4-595144ddb399")
+	)
+	(embedded_fonts no)
+)

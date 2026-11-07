@@ -1,0 +1,261 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "09894fb4-7068-58cf-b543-535c54fec1e3")
+	(paper "A3")
+	(title_block
+		(title "PALHASERVO")
+		(rev "V1I1")
+		(comment 1 "Imported from the Altium Designer project (see altium/)")
+	)
+	(lib_symbols)
+	(text "Project organization"
+		(exclude_from_sim no)
+		(at 195.58 22.86 0)
+		(effects
+			(font
+				(size 9.6 9.6)
+				(bold yes)
+				(color 158 14 41 1)
+			)
+			(justify bottom)
+		)
+		(uuid "a12bef11-acf5-5974-8474-cdbd56bc5e69")
+	)
+	(sheet
+		(at 194.818 48.006)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "48035c59-9ca5-5443-befc-2087a2b1e8cb")
+		(property "Sheetname" "CIRCUIT"
+			(at 194.818 47.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_circuit.kicad_sch"
+			(at 194.818 89.346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PALHASERVO"
+				(path "/09894fb4-7068-58cf-b543-535c54fec1e3"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 238.76 48.26)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "75f312f9-8ef1-5efa-8976-43210e81b3b4")
+		(property "Sheetname" "MECHANICAL"
+			(at 238.76 47.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_mechanical.kicad_sch"
+			(at 238.76 89.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PALHASERVO"
+				(path "/09894fb4-7068-58cf-b543-535c54fec1e3"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 103.378 48.006)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8f91f715-d5da-53b4-b1c2-9782903fe42b")
+		(property "Sheetname" "COVER PAGE"
+			(at 103.378 47.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_cover_page.kicad_sch"
+			(at 103.378 89.346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PALHASERVO"
+				(path "/09894fb4-7068-58cf-b543-535c54fec1e3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 96.52)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e4e3047e-65d9-5c74-b770-9df6c5e2c86d")
+		(property "Sheetname" "REVISION HISTORY"
+			(at 104.14 95.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_revision_history.kicad_sch"
+			(at 104.14 137.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PALHASERVO"
+				(path "/09894fb4-7068-58cf-b543-535c54fec1e3"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.098 48.006)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "efac323e-c10c-565b-a48e-1a91122b267c")
+		(property "Sheetname" "BLOCK DIAGRAM"
+			(at 149.098 47.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_block_diagram.kicad_sch"
+			(at 149.098 89.346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PALHASERVO"
+				(path "/09894fb4-7068-58cf-b543-535c54fec1e3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

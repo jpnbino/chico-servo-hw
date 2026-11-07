@@ -1,4 +1,4 @@
-# ChicoServo - HW #
+# Chico - HW #
 
 This is a fully working board which you may wanna use as reference or may clone and customize to your needs. The board was designed to an specific project which required ADC, PWM, SERIAL, and I/O connection.
 
@@ -6,9 +6,9 @@ Example firmware [**here**](https://bitbucket.org/jpnbino/fw_palhaservo/src/mast
 
 ## PCB ##
 
-![PCB Top](image/pcb_top.png)
+![PCB Top](kicad/outputs/images/PALHASERVO_top.png)
 
-![PCB Bottom](image/pcb_bottom.png)
+![PCB Bottom](kicad/outputs/images/PALHASERVO_bottom.png)
 
 ### Board details ###
 
@@ -23,7 +23,7 @@ Example firmware [**here**](https://bitbucket.org/jpnbino/fw_palhaservo/src/mast
 
 * Quick summary
 
-  * Contains source files from IDE Altium Designer which can be used rebuild this project or adopted as an user may need.
+  * The project now lives in **KiCad 10** (`kicad/`). The original Altium Designer sources are **frozen** in `altium/` and are no longer maintained.
 
 * Version
 
